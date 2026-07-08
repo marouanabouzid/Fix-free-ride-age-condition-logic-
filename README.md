@@ -1,2 +1,2 @@
 # Fix-free-ride-age-condition-logic-
-Fixed the logical condition for the free ride age range. Improved ticket pricing flow and corrected age validation behavior.
+A lightweight, interactive Python CLI application that simulates a rollercoaster ticketing kiosk. This script showcases the practical application of nested conditional logic (if/elif/else) and user input handling.
